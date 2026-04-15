@@ -32,7 +32,7 @@ export default function App() {
   }
   return (
     <>
-      <h1>TODO App (google + youtube + github + dokploy + coolify)</h1>
+      <h1>TODO App (google + youtube + github + dokploy + coolify + nafso)</h1>
       <form onSubmit={handleForm}>
         <input ref={todoRef} type="text" />
       </form>
